@@ -13,7 +13,7 @@
                 <li>
                     <a class="nav-link scrollto" href="#portfolio">Portfolio</a>
                 </li>
-                <li><a class="nav-link scrollto" href="#recent-blog-posts">Blog</a></li>
+                <li><a class="nav-link scrollto" href="blog.php">Blog</a></li>
 
                 <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                 <li>

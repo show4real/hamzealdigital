@@ -98,6 +98,16 @@
                     </div>
                 </header>
             </div>
+            <div class="container" data-aos="fade-up">
+                <header class="section-header">
+                    <a aria-label="Chat on WhatsApp" href="https://wa.me/7032618748">
+                        <img alt="Chat on WhatsApp" src="whatsapp.png" width="200" />
+                    </a>
+
+                </header>
+            </div>
+
+
 
 
             <div class="row">
@@ -111,7 +121,7 @@
                    
                     line-height: 1.6;
                     text-align: justify;
-                    padding-left: 65px;
+                   
                   ">
                             <li>Web Application Development</li>
                             <li>Mobile Application Development</li>
@@ -131,7 +141,7 @@
                     
                     line-height: 1.6;
                     text-align: justify;
-                    padding-left: 65px;
+                   
                   ">
                             <li>Managed Servers</li>
                             <li>Storage and Backup Servers</li>
@@ -414,6 +424,14 @@
             </div>
         </section>
         <!-- End Features Section -->
+        <div class="container" data-aos="fade-up">
+            <header class="section-header">
+                <a aria-label="Chat on WhatsApp" href="https://wa.me/7032618748">
+                    <img alt="Chat on WhatsApp" src="whatsapp.png" width="200" />
+                </a>
+
+            </header>
+        </div>
 
         <!-- ======= Services Section ======= -->
         <section id="services" class="services">
