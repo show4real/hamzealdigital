@@ -16,14 +16,15 @@
                 <li><a class="nav-link scrollto" href="blog.php">Blog</a></li>
 
                 <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                <li>
-                    <a class="getstarted scrollto" href="#about">Get Started</a>
-                </li>
-                <li>
+                <!-- <li>
                     <a aria-label="Chat on WhatsApp" href="https://wa.me/7032618748">
                         <img alt="Chat on WhatsApp" src="whatsapp.png" width="150" />
                     </a>
+                </li> -->
+                <li>
+                    <a class="getstarted scrollto" href="#about">Get Started</a>
                 </li>
+
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav>

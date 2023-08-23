@@ -539,7 +539,14 @@
         </section>
         <!-- End Services Section -->
 
+        <div class="container" data-aos="fade-up">
+            <header class="section-header">
+                <a aria-label="Chat on WhatsApp" href="https://wa.me/7032618748">
+                    <img alt="Chat on WhatsApp" src="whatsapp.png" width="200" />
+                </a>
 
+            </header>
+        </div>
         <!-- ======= F.A.Q Section ======= -->
         <section id="faq" class="faq">
             <div class="container" data-aos="fade-up">
@@ -1148,6 +1155,14 @@
             </div>
         </section>
         <!-- End Recent Blog Posts Section -->
+        <div class="container" data-aos="fade-up">
+            <header class="section-header">
+                <a aria-label="Chat on WhatsApp" href="https://wa.me/7032618748">
+                    <img alt="Chat on WhatsApp" src="whatsapp.png" width="200" />
+                </a>
+
+            </header>
+        </div>
 
         <!-- ======= Contact Section ======= -->
         <section id="contact" class="contact">
@@ -1251,6 +1266,10 @@
                     </div>
                 </div>
             </div>
+            <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
+                class="float-whatsapp" target="_blank">
+                <i class="fa fa-whatsapp my-whatsapp-float"></i>
+            </a>
         </div>
 
         <div class="footer-top">
