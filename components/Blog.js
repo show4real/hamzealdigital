@@ -85,7 +85,7 @@ const Blog = () => {
                     }}
                   ></p>
                   <div class="read-more">
-                    <a href="blog-single.html">Read More</a>
+                    <a href="#">Read More</a>
                   </div>
                 </div>
               </article>

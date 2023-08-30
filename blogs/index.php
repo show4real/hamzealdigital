@@ -8,8 +8,10 @@
 
     <title>#1 Website Designer in Ibadan / websites / mobile App Dev / Graphics Designer / Get the best out of
         technology to promote your business | Hamzeal digital</title>
-    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design" name="description" />
-    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design" name="keywords" />
+    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design"
+        name="description" />
+    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design"
+        name="keywords" />
 
 
     <meta name="description" content="Hamzeal Digital | Web Designer | Training | Mobile App development" />
@@ -17,7 +19,8 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Website Designer in Ibadan / websites / mobile App Dev / Graphics Designer / " />
-    <meta property="og:description" content="Hamzeal Digital&amp; offers top quality ,websites  delivering quality. Ibadan" />
+    <meta property="og:description"
+        content="Hamzeal Digital&amp; offers top quality ,websites  delivering quality. Ibadan" />
     <meta property="og:url" content="https://hamzealdigital.com/" />
     <meta property="og:site_name" content="Hamzeal Digital" />
     <meta property="article:publisher" content="https://www.facebook.com/hamzealdigital/" />
@@ -27,60 +30,62 @@
     <meta name="twitter:data1" content="4 minutes" />
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon" />
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link href="../assets/img/favicon.png" rel="icon" />
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <!-- Vendor CSS Files -->
-    <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
-    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
-    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet" />
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+    <link href="../assets/vendor/aos/aos.css" rel="stylesheet" />
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+    <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+    <link href="../assets/vendor/remixicon/remixicon.css" rel="stylesheet" />
+    <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="../assets/css/style.css" rel="stylesheet" />
     <!-- Google Tag Manager -->
     <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
     </script>
     <!-- End Google Tag Manager -->
     <style>
-        .float-whatsapp {
-            position: fixed;
-            width: 60px;
-            height: 60px;
-            bottom: 40px;
-            right: 40px;
-            background-color: #25d366;
-            color: #FFF;
-            border-radius: 50px;
-            text-align: center;
-            font-size: 30px;
-            box-shadow: 2px 2px 3px #999;
-            z-index: 100;
-        }
+    .float-whatsapp {
+        position: fixed;
+        width: 60px;
+        height: 60px;
+        bottom: 40px;
+        right: 40px;
+        background-color: #25d366;
+        color: #FFF;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        box-shadow: 2px 2px 3px #999;
+        z-index: 100;
+    }
 
-        .my-whatsapp-float {
-            margin-top: 16px;
-        }
+    .my-whatsapp-float {
+        margin-top: 16px;
+    }
     </style>
 
     <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
@@ -90,13 +95,14 @@
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- ======= Header ======= -->
     <header id="header" class="header fixed-top">
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
             <a href="/" class="logo d-flex align-items-center">
-                <img src="assets/img/logo.png" alt="" />
+                <img src="../assets/img/logo.png" alt="" />
                 <span style="font-size: medium">Hamzeal Digital</span>
             </a>
 
@@ -165,7 +171,7 @@
                 <div class="row gy-4">
                     <div class="col-lg-5 col-md-12 footer-info">
                         <a href="#" class="logo d-flex align-items-center">
-                            <img src="assets/img/logo.png" alt="" />
+                            <img src="../assets/img/logo.png" alt="" />
                             <span>Hamzeal Digital</span>
                         </a>
                         <p style="text-align: justify">
@@ -208,7 +214,8 @@
                                 <a href="#">Privacy policy</a>
                             </li>
                         </ul>
-                        <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float-whatsapp" target="_blank">
+                        <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
+                            class="float-whatsapp" target="_blank">
                             <i class="fa fa-whatsapp my-whatsapp-float"></i>
                         </a>
                     </div>
@@ -251,20 +258,21 @@
     </footer>
     <!-- End Footer -->
 
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
-    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-    <script src="assets/vendor/aos/aos.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="../assets/vendor/aos/aos.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../assets/vendor/php-email-form/validate.js"></script>
 
     <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
-    <script type="text/babel" src="./components/Blog.js"></script>
+    <script src="../assets/js/main.js"></script>
+    <script type="text/babel" src="../components//Blog.js"></script>
 </body>
 
 </html>
