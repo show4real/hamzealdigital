@@ -4,37 +4,7 @@
 <?php include_once 'metaheads.php' ?>
 
 <body>
-    <!-- Messenger Chat plugin Code -->
-    <div id="fb-root"></div>
 
-    <!-- Your Chat plugin code -->
-    <div id="fb-customer-chat" class="fb-customerchat">
-    </div>
-
-    <script>
-    var chatbox = document.getElementById('fb-customer-chat');
-    chatbox.setAttribute("page_id", "302249947165451");
-    chatbox.setAttribute("attribution", "biz_inbox");
-    </script>
-
-    <!-- Your SDK code -->
-    <script>
-    window.fbAsyncInit = function() {
-        FB.init({
-            xfbml: true,
-            version: 'v17.0'
-        });
-    };
-
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-    </script>
 
     <!-- ======= Header ======= -->
     <?php include 'header.php'; ?>
@@ -53,8 +23,7 @@
                     </h2>
                     <div data-aos="fade-up" data-aos-delay="600">
                         <div class="text-center text-lg-start" style="max-width:auto;">
-                            <a href="#about"
-                                class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+                            <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                                 <span>Let's get started</span>
                                 <i class="bi bi-arrow-right"></i>
                             </a>
@@ -74,8 +43,7 @@
         <section id="about" class="about">
             <div class="container" data-aos="fade-up">
                 <div class="row gx-0">
-                    <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up"
-                        data-aos-delay="200">
+                    <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="content">
                             <h3>Who We Are</h3>
                             <h2 class="txt-sm-mobile" style="line-height:1.6">
@@ -95,8 +63,7 @@
                   innovators.
                 </p> -->
                             <div class="text-center text-lg-start">
-                                <a href="#"
-                                    class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                                <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                                     <span>Read More</span>
                                     <i class="bi bi-arrow-right"></i>
                                 </a>
@@ -245,8 +212,7 @@
                         <div class="count-box">
                             <i class="bi bi-journal-richtext" style="color: #ee6c20"></i>
                             <div>
-                                <span data-purecounter-start="0" data-purecounter-end="105"
-                                    data-purecounter-duration="1" class="purecounter"></span>
+                                <span data-purecounter-start="0" data-purecounter-end="105" data-purecounter-duration="1" class="purecounter"></span>
                                 <p>Projects</p>
                             </div>
                         </div>
@@ -255,8 +221,7 @@
                         <div class="count-box">
                             <i class="bi bi-emoji-smile"></i>
                             <div>
-                                <span data-purecounter-start="0" data-purecounter-end="100"
-                                    data-purecounter-duration="1" class="purecounter"></span>
+                                <span data-purecounter-start="0" data-purecounter-end="100" data-purecounter-duration="1" class="purecounter"></span>
                                 <p>Happy Clients</p>
                             </div>
                         </div>
@@ -266,8 +231,7 @@
                         <div class="count-box">
                             <i class="bi bi-headset" style="color: #15be56"></i>
                             <div>
-                                <span data-purecounter-start="0" data-purecounter-end="1463"
-                                    data-purecounter-duration="1" class="purecounter"></span>
+                                <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
                                 <p>Hours Of Support</p>
                             </div>
                         </div>
@@ -621,8 +585,7 @@
                         <div class="accordion accordion-flush" id="faqlist1">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faq-content-1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                                         What services do you offer as a web and mobile app agency?
                                     </button>
                                 </h2>
@@ -637,8 +600,7 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faq-content-2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                                         How do you ensure security and data privacy in your mobile and web solutions?
                                     </button>
                                 </h2>
@@ -653,8 +615,7 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faq-content-3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                                         Can you provide a cost estimate for developing a custom mobile app or website?
                                     </button>
                                 </h2>
@@ -675,8 +636,7 @@
                         <div class="accordion accordion-flush" id="faqlist2">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faq2-content-1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-1">
                                         What sets your agency apart from other web and mobile app development companies?
                                     </button>
                                 </h2>
@@ -691,8 +651,7 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faq2-content-2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-2">
                                         Do you offer ongoing maintenance and support for the apps and websites?
                                     </button>
                                 </h2>
@@ -707,8 +666,7 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faq2-content-3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-3">
                                         How do you handle responsive design and compatibility with various devices?
                                     </button>
                                 </h2>
@@ -981,9 +939,7 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Working with this Digital agency was a game-changer for our business.
@@ -1007,9 +963,7 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     From concept to execution, this agency exceeded our expectations.
@@ -1032,9 +986,7 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Their commitment to excellence is unmatched.
@@ -1057,9 +1009,7 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Choosing this agency was the best decision we made.
@@ -1082,9 +1032,7 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                                        class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Partnering with this agency was a game-changer.
@@ -1169,8 +1117,7 @@
                                 Fullstack developers are versatile in various technologies and languages,
                                 handling both client-side and server-side tasks.
                             </p>
-                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i
-                                    class="bi bi-arrow-right"></i></a>
+                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
 
@@ -1187,8 +1134,7 @@
                                 Web development is the art and science of creating websites and web applications.
                                 It involves designing and coding elements that make up a website, including layout,
                                 user interface, and functionality.
-                                <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i
-                                        class="bi bi-arrow-right"></i></a>
+                                <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
 
@@ -1207,8 +1153,7 @@
                                 smartphones and tablets. It involves designing and coding user interfaces,
                                 functionalities, and features tailored to the mobile platform.
                             </p>
-                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i
-                                    class="bi bi-arrow-right"></i></a>
+                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1270,23 +1215,19 @@
                         <form action="#" method="post" class="php-email-form">
                             <div class="row gy-4">
                                 <div class="col-md-6">
-                                    <input type="text" name="name" class="form-control" placeholder="Your Name"
-                                        required />
+                                    <input type="text" name="name" class="form-control" placeholder="Your Name" required />
                                 </div>
 
                                 <div class="col-md-6">
-                                    <input type="email" class="form-control" name="email" placeholder="Your Email"
-                                        required />
+                                    <input type="email" class="form-control" name="email" placeholder="Your Email" required />
                                 </div>
 
                                 <div class="col-md-12">
-                                    <input type="text" class="form-control" name="subject" placeholder="Subject"
-                                        required />
+                                    <input type="text" class="form-control" name="subject" placeholder="Subject" required />
                                 </div>
 
                                 <div class="col-md-12">
-                                    <textarea class="form-control" name="message" rows="6" placeholder="Message"
-                                        required></textarea>
+                                    <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
                                 </div>
 
                                 <div class="col-md-12 text-center">
@@ -1326,8 +1267,7 @@
                     </div>
                 </div>
             </div>
-            <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
-                class="float-whatsapp" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float-whatsapp" target="_blank">
                 <i class="fa fa-whatsapp my-whatsapp-float"></i>
             </a>
         </div>
@@ -1422,8 +1362,7 @@
 
     </footer>
     <!-- End Footer -->
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-            class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
 
 
@@ -1436,7 +1375,7 @@
     <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
     <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>

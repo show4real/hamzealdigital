@@ -213,18 +213,7 @@
                                             expensive and
                                             for that reason, most people living on a budget prefer to buy fairly used
                                             ones
-                                            instead. But even the fairly used laptops don’t come cheap, so you want to
-                                            make sure
-                                            to get them from verified sellers who you can rest assured are selling you
-                                            quality.
-
-                                            To help you with this, especially if you live in and around Ibadan, we have
-                                            compiled
-                                            a list of fairly used laptops in Ibadan with their prices in this article.
-                                            The
-                                            laptops are listed from the least to the most expensive so you can easily
-                                            make the
-                                            right choice that fits your desired specifications and budget.
+                                            instead.
 
                                             Check out products below
 
