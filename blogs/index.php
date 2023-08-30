@@ -8,10 +8,8 @@
 
     <title>#1 Website Designer in Ibadan / websites / mobile App Dev / Graphics Designer / Get the best out of
         technology to promote your business | Hamzeal digital</title>
-    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design"
-        name="description" />
-    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design"
-        name="keywords" />
+    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design" name="description" />
+    <meta content="Mobile Application Development | Web Development | Digital Marketing | Hosting | Graphics Design" name="keywords" />
 
 
     <meta name="description" content="Hamzeal Digital | Web Designer | Training | Mobile App development" />
@@ -19,8 +17,7 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Website Designer in Ibadan / websites / mobile App Dev / Graphics Designer / " />
-    <meta property="og:description"
-        content="Hamzeal Digital&amp; offers top quality ,websites  delivering quality. Ibadan" />
+    <meta property="og:description" content="Hamzeal Digital&amp; offers top quality ,websites  delivering quality. Ibadan" />
     <meta property="og:url" content="https://hamzealdigital.com/" />
     <meta property="og:site_name" content="Hamzeal Digital" />
     <meta property="article:publisher" content="https://www.facebook.com/hamzealdigital/" />
@@ -34,9 +31,7 @@
     <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <!-- Vendor CSS Files -->
@@ -51,52 +46,51 @@
     <link href="../assets/css/style.css" rel="stylesheet" />
     <!-- Google Tag Manager -->
     <script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
     </script>
     <!-- End Google Tag Manager -->
     <style>
-    .float-whatsapp {
-        position: fixed;
-        width: 60px;
-        height: 60px;
-        bottom: 40px;
-        right: 40px;
-        background-color: #25d366;
-        color: #FFF;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 30px;
-        box-shadow: 2px 2px 3px #999;
-        z-index: 100;
-    }
+        .float-whatsapp {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            background-color: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 100;
+        }
 
-    .my-whatsapp-float {
-        margin-top: 16px;
-    }
+        .my-whatsapp-float {
+            margin-top: 16px;
+        }
     </style>
 
-    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="../assets/js/react-dom.js" crossorigin></script>
+    <script src="../assets/js/react-dev.js" crossorigin></script>
+    <script src="../assets/js/babel.js"></script>
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- ======= Header ======= -->
     <header id="header" class="header fixed-top">
@@ -214,8 +208,7 @@
                                 <a href="#">Privacy policy</a>
                             </li>
                         </ul>
-                        <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
-                            class="float-whatsapp" target="_blank">
+                        <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float-whatsapp" target="_blank">
                             <i class="fa fa-whatsapp my-whatsapp-float"></i>
                         </a>
                     </div>
@@ -258,8 +251,7 @@
     </footer>
     <!-- End Footer -->
 
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-            class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
     <!-- Vendor JS Files -->
     <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>

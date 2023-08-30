@@ -79,6 +79,7 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
         rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
+
     <!-- Vendor CSS Files -->
     <link href="../assets/vendor/aos/aos.css" rel="stylesheet" />
     <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -86,10 +87,10 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
     <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
     <link href="../assets/vendor/remixicon/remixicon.css" rel="stylesheet" />
     <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd/dist/antd.min.css">
 
     <!-- Template Main CSS File -->
     <link href="../assets/css/style.css" rel="stylesheet" />
+
     <!-- Google Tag Manager -->
     <script>
     (function(w, d, s, l, i) {
@@ -341,9 +342,10 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
     /* FF1493 */
     </style>
 
-    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <script src="../assets/js/react-dev.js" crossorigin></script>
+    <script src="../assets/js/react-dom.js" crossorigin></script>
+    <script src="../assets/js/babel.js"></script>
 
 </head>
 
@@ -384,33 +386,7 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- ======= Header ======= -->
-    <header id="header" class="header fixed-top">
-        <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-            <a href="../index.php" class="logo d-flex align-items-center">
-                <img src="../assets/img/logo.png" alt="" />
-                <span style="font-size: medium">Hamzeal Digital</span>
-            </a>
-
-            <nav id="navbar" class="navbar">
-                <ul>
-                    <li><a class="nav-link scrollto active" href="../index.php">Home</a></li>
-                    <li><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                    <li>
-                        <a class="nav-link scrollto" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li><a class="nav-link scrollto" href="#blog">Blog</a></li>
-
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li>
-                        <a class="getstarted scrollto" href="#about">Get Started</a>
-                    </li>
-                </ul>
-                <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav>
-            <!-- .navbar -->
-        </div>
-    </header>
+    <?php include "../header.php" ?>
     <!-- End Header -->
 
     <main id="main">

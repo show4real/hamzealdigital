@@ -51,7 +51,7 @@ const ProductCard = ({ imageSrc, name, price, altImage, slug }) => {
       />
       <h3 style={{ margin: "10px", fontSize: "15px" }}>
         <a
-          href={`./detail/?page=${slug}`}
+          href={`/detail/?page=${slug}`}
           style={{ textDecoration: "none", color: "#0E1B4D" }}
         >
           {name}
@@ -70,7 +70,7 @@ const ProductCard = ({ imageSrc, name, price, altImage, slug }) => {
         &#8358;{formatNumber(price)}
       </div>
 
-      <a href={`./detail/?page=${slug}`}>
+      <a href={`../detail/?page=${slug}`}>
         <button style={buttonStyles}>See Details</button>
       </a>
     </div>
