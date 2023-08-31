@@ -14,16 +14,14 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="#1 UK Used Laptops / Brand New Laptops / Mobile Phones store in Ibadan" />
-    <meta property="og:description"
-        content="Hamzeal Digital offers top quality laptops, Mobile phones and accessories at affordable prices, delivering quality since 2004 in Ibadan." />
+    <meta property="og:description" content="Hamzeal Digital offers top quality laptops, Mobile phones and accessories at affordable prices, delivering quality since 2004 in Ibadan." />
     <meta property="og:url" content="https://hamzealdigital.com/" />
     <meta property="og:site_name" content="Hamzeal Digital" />
     <meta property="article:publisher" content="https://www.facebook.com/hamzealmart/" />
     <meta property="article:modified_time" content="2023-07-09T11:10:28+00:00" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Check Out These Fairly Used Laptops in Ibadan with Their Prices" />
-    <meta property="og:description"
-        content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
+    <meta property="og:description" content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
     <meta property="og:url" content="https://hamzealdigital.com/uk-used-laptops-ibadan" />
     <meta property="og:image" content="https://hamzealdigital.com/log.png" />
     <meta property="og:image:width" content="750" />
@@ -36,8 +34,7 @@
     <meta name="twitter:site" content="@Selloff.ng" />
     <meta name="twitter:creator" content="@" />
     <meta name="twitter:title" content="Check Out These Fairly Used Laptops in Ibadan with Their Prices" />
-    <meta name="twitter:description"
-        content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
+    <meta name="twitter:description" content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
     <meta name="twitter:image" content="https://hamzealdigital.com/logo.png" />
 
     <!-- Favicons -->
@@ -45,9 +42,7 @@
     <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <!-- Vendor CSS Files -->
@@ -62,52 +57,52 @@
     <link href="../assets/css/style.css" rel="stylesheet" />
     <!-- Google Tag Manager -->
     <script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
     </script>
     <!-- End Google Tag Manager -->
     <style>
-    .float-whatsapp {
-        position: fixed;
-        width: 60px;
-        height: 60px;
-        bottom: 40px;
-        right: 40px;
-        background-color: #25d366;
-        color: #FFF;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 30px;
-        box-shadow: 2px 2px 3px #999;
-        z-index: 100;
-    }
+        .float-whatsapp {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            background-color: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 100;
+        }
 
-    .my-whatsapp-float {
-        margin-top: 16px;
-    }
+        .my-whatsapp-float {
+            margin-top: 16px;
+        }
 
-    .load-more-button {
+        .load-more-button {
 
-        color: #0E1B4D;
-        border: none;
-        padding: 10px 20px;
-        cursor: pointer;
-        border-radius: 4px;
-        font-size: 16px;
-        margin-top: 10px;
-    }
+            color: #0E1B4D;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 16px;
+            margin-top: 10px;
+        }
     </style>
 
 
@@ -125,32 +120,31 @@
     </div>
 
     <script>
-    var chatbox = document.getElementById('fb-customer-chat');
-    chatbox.setAttribute("page_id", "302249947165451");
-    chatbox.setAttribute("attribution", "biz_inbox");
+        var chatbox = document.getElementById('fb-customer-chat');
+        chatbox.setAttribute("page_id", "302249947165451");
+        chatbox.setAttribute("attribution", "biz_inbox");
     </script>
 
     <!-- Your SDK code -->
     <script>
-    window.fbAsyncInit = function() {
-        FB.init({
-            xfbml: true,
-            version: 'v17.0'
-        });
-    };
+        window.fbAsyncInit = function() {
+            FB.init({
+                xfbml: true,
+                version: 'v17.0'
+            });
+        };
 
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
     </script>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- ======= Header ======= -->
     <header id="header" class="header fixed-top">
@@ -338,8 +332,7 @@
                                     <a href="#">Privacy policy</a>
                                 </li>
                             </ul>
-                            <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
-                                class="float-whatsapp" target="_blank">
+                            <a href="https://api.whatsapp.com/send?phone=7032618748&text=Hello, how may we be of service" class="float-whatsapp" target="_blank">
                                 <i class="fa fa-whatsapp my-whatsapp-float"></i>
                             </a>
                         </div>
@@ -382,8 +375,7 @@
         </footer>
         <!-- End Footer -->
 
-        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-                class="bi bi-arrow-up-short"></i></a>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
         <!-- Vendor JS Files -->
         <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
