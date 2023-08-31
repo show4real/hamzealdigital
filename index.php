@@ -23,7 +23,8 @@
                     </h2>
                     <div data-aos="fade-up" data-aos-delay="600">
                         <div class="text-center text-lg-start" style="max-width:auto;">
-                            <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+                            <a href="#about"
+                                class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                                 <span>Let's get started</span>
                                 <i class="bi bi-arrow-right"></i>
                             </a>
@@ -43,7 +44,8 @@
         <section id="about" class="about">
             <div class="container" data-aos="fade-up">
                 <div class="row gx-0">
-                    <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+                    <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up"
+                        data-aos-delay="200">
                         <div class="content">
                             <h3>Who We Are</h3>
                             <h2 class="txt-sm-mobile" style="line-height:1.6">
@@ -63,7 +65,8 @@
                   innovators.
                 </p> -->
                             <div class="text-center text-lg-start">
-                                <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                                <a href="#"
+                                    class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                                     <span>Read More</span>
                                     <i class="bi bi-arrow-right"></i>
                                 </a>
@@ -79,7 +82,7 @@
         </section>
         <!-- End About Section -->
         <!-- Gadgets section-->
-        <!-- <section id="about" class="about">
+        <section id="about" class="about">
             <div class="container" data-aos="fade-up">
                 <div class="row gx-0">
                     <header class="section-header">
@@ -103,7 +106,7 @@
                     </header>
                 </div>
             </div>
-        </section> -->
+        </section>
 
         <!-- Gadgets section end -->
 
@@ -212,7 +215,8 @@
                         <div class="count-box">
                             <i class="bi bi-journal-richtext" style="color: #ee6c20"></i>
                             <div>
-                                <span data-purecounter-start="0" data-purecounter-end="105" data-purecounter-duration="1" class="purecounter"></span>
+                                <span data-purecounter-start="0" data-purecounter-end="105"
+                                    data-purecounter-duration="1" class="purecounter"></span>
                                 <p>Projects</p>
                             </div>
                         </div>
@@ -221,7 +225,8 @@
                         <div class="count-box">
                             <i class="bi bi-emoji-smile"></i>
                             <div>
-                                <span data-purecounter-start="0" data-purecounter-end="100" data-purecounter-duration="1" class="purecounter"></span>
+                                <span data-purecounter-start="0" data-purecounter-end="100"
+                                    data-purecounter-duration="1" class="purecounter"></span>
                                 <p>Happy Clients</p>
                             </div>
                         </div>
@@ -231,7 +236,8 @@
                         <div class="count-box">
                             <i class="bi bi-headset" style="color: #15be56"></i>
                             <div>
-                                <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+                                <span data-purecounter-start="0" data-purecounter-end="1463"
+                                    data-purecounter-duration="1" class="purecounter"></span>
                                 <p>Hours Of Support</p>
                             </div>
                         </div>
@@ -585,7 +591,8 @@
                         <div class="accordion accordion-flush" id="faqlist1">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq-content-1">
                                         What services do you offer as a web and mobile app agency?
                                     </button>
                                 </h2>
@@ -600,7 +607,8 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq-content-2">
                                         How do you ensure security and data privacy in your mobile and web solutions?
                                     </button>
                                 </h2>
@@ -615,7 +623,8 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq-content-3">
                                         Can you provide a cost estimate for developing a custom mobile app or website?
                                     </button>
                                 </h2>
@@ -636,7 +645,8 @@
                         <div class="accordion accordion-flush" id="faqlist2">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq2-content-1">
                                         What sets your agency apart from other web and mobile app development companies?
                                     </button>
                                 </h2>
@@ -651,7 +661,8 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq2-content-2">
                                         Do you offer ongoing maintenance and support for the apps and websites?
                                     </button>
                                 </h2>
@@ -666,7 +677,8 @@
 
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#faq2-content-3">
                                         How do you handle responsive design and compatibility with various devices?
                                     </button>
                                 </h2>
@@ -939,7 +951,9 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Working with this Digital agency was a game-changer for our business.
@@ -963,7 +977,9 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     From concept to execution, this agency exceeded our expectations.
@@ -986,7 +1002,9 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Their commitment to excellence is unmatched.
@@ -1009,7 +1027,9 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Choosing this agency was the best decision we made.
@@ -1032,7 +1052,9 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <div class="stars">
-                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                        class="bi bi-star-fill"></i>
                                 </div>
                                 <p>
                                     Partnering with this agency was a game-changer.
@@ -1117,7 +1139,8 @@
                                 Fullstack developers are versatile in various technologies and languages,
                                 handling both client-side and server-side tasks.
                             </p>
-                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i
+                                    class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
 
@@ -1134,7 +1157,8 @@
                                 Web development is the art and science of creating websites and web applications.
                                 It involves designing and coding elements that make up a website, including layout,
                                 user interface, and functionality.
-                                <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                                <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i
+                                        class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
 
@@ -1153,7 +1177,8 @@
                                 smartphones and tablets. It involves designing and coding user interfaces,
                                 functionalities, and features tailored to the mobile platform.
                             </p>
-                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                            <a href="#" class="readmore stretched-link mt-auto"><span>Read More</span><i
+                                    class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1215,19 +1240,23 @@
                         <form action="#" method="post" class="php-email-form">
                             <div class="row gy-4">
                                 <div class="col-md-6">
-                                    <input type="text" name="name" class="form-control" placeholder="Your Name" required />
+                                    <input type="text" name="name" class="form-control" placeholder="Your Name"
+                                        required />
                                 </div>
 
                                 <div class="col-md-6">
-                                    <input type="email" class="form-control" name="email" placeholder="Your Email" required />
+                                    <input type="email" class="form-control" name="email" placeholder="Your Email"
+                                        required />
                                 </div>
 
                                 <div class="col-md-12">
-                                    <input type="text" class="form-control" name="subject" placeholder="Subject" required />
+                                    <input type="text" class="form-control" name="subject" placeholder="Subject"
+                                        required />
                                 </div>
 
                                 <div class="col-md-12">
-                                    <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                                    <textarea class="form-control" name="message" rows="6" placeholder="Message"
+                                        required></textarea>
                                 </div>
 
                                 <div class="col-md-12 text-center">
@@ -1267,7 +1296,8 @@
                     </div>
                 </div>
             </div>
-            <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="float-whatsapp" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
+                class="float-whatsapp" target="_blank">
                 <i class="fa fa-whatsapp my-whatsapp-float"></i>
             </a>
         </div>
@@ -1362,7 +1392,8 @@
 
     </footer>
     <!-- End Footer -->
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
 
 
@@ -1375,286 +1406,286 @@
     <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
     <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
+    <script src="assets/vendor/php-email-form/validate.js"></script>
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
     <script type="text/babel">
-        //         const { useState, useEffect } = React;
+        const { useState, useEffect } = React;
 
-// const ProductCard = ({ imageSrc, name, price, altImage, slug }) => {
-//   const [isHovered, setIsHovered] = useState(false);
+const ProductCard = ({ imageSrc, name, price, altImage, slug }) => {
+  const [isHovered, setIsHovered] = useState(false);
 
-//   const formatNumber = (number) => {
-//     return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-//   };
+  const formatNumber = (number) => {
+    return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  };
 
-//   const cardStyles = {
-//     position: "relative",
-//     border: "1px solid #ccc",
-//     borderRadius: "8px",
-//     overflow: "hidden",
-//     margin: "10px",
-//     border: "none",
-//   };
+  const cardStyles = {
+    position: "relative",
+    border: "1px solid #ccc",
+    borderRadius: "8px",
+    overflow: "hidden",
+    margin: "10px",
+    border: "none",
+  };
 
-//   const imageStyles = {
-//     width: "100%",
-//     height: "auto",
-//     transition: "opacity 0.3s",
-//     opacity: isHovered ? 0.7 : 1,
-//   };
+  const imageStyles = {
+    width: "100%",
+    height: "auto",
+    transition: "opacity 0.3s",
+    opacity: isHovered ? 0.7 : 1,
+  };
 
-//   const buttonStyles = {
-//     position: "absolute",
-//     left: "50%",
-//     top: "100px",
-//     transform: "translateX(-50%)",
-//     padding: "8px 16px",
-//     backgroundColor: "#0E1B4D",
-//     color: "white",
-//     borderRadius: "4px",
-//     border: "none",
-//     cursor: "pointer",
-//     opacity: isHovered ? 1 : 0,
-//     transition: "opacity 0.3s",
-//   };
+  const buttonStyles = {
+    position: "absolute",
+    left: "50%",
+    top: "100px",
+    transform: "translateX(-50%)",
+    padding: "8px 16px",
+    backgroundColor: "#0E1B4D",
+    color: "white",
+    borderRadius: "4px",
+    border: "none",
+    cursor: "pointer",
+    opacity: isHovered ? 1 : 0,
+    transition: "opacity 0.3s",
+  };
 
-//   return (
-//     <div
-//       style={cardStyles}
-//       onMouseEnter={() => setIsHovered(true)}
-//       onMouseLeave={() => setIsHovered(false)}
-//     >
-//       <img
-//         src={isHovered ? altImage : imageSrc}
-//         alt={name}
-//         style={imageStyles}
-//       />
-//       <h3 style={{ margin: "10px", fontSize: "15px" }}><a href={`./detail/?page=${slug}`} style={{color:"#0E1B4D"}}>{name}</a></h3>
-//       <div
-//         style={{
-//           fontSize: 15,
-//           color: "#0E1B4D",
-//           fontWeight: 500,
-//           fontFamily: '"Montserrat", Arial, Helvetica, sans-serif',
-//           margin: "10px 0px 10px 0px",
-//           paddingLeft: 15,
-//         }}
-//       >
-//         &#8358;{formatNumber(price)}
-//       </div>
+  return (
+    <div
+      style={cardStyles}
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+    >
+      <img
+        src={isHovered ? altImage : imageSrc}
+        alt={name}
+        style={imageStyles}
+      />
+      <h3 style={{ margin: "10px", fontSize: "15px" }}><a href={`./detail/?page=${slug}`} style={{color:"#0E1B4D"}}>{name}</a></h3>
+      <div
+        style={{
+          fontSize: 15,
+          color: "#0E1B4D",
+          fontWeight: 500,
+          fontFamily: '"Montserrat", Arial, Helvetica, sans-serif',
+          margin: "10px 0px 10px 0px",
+          paddingLeft: 15,
+        }}
+      >
+        &#8358;{formatNumber(price)}
+      </div>
 
-//       <a href={`./detail/?page=${slug}`}>
-//         <button style={buttonStyles}>See Details</button>
-//       </a>
-//     </div>
-//   );
-// };
+      <a href={`./detail/?page=${slug}`}>
+        <button style={buttonStyles}>See Details</button>
+      </a>
+    </div>
+  );
+};
 
-// const TrendingProduct = () => {
-//   const [products, setProducts] = useState([]);
-//   const [loading, setLoading] = useState(false);
-//   const [newLoading, setNewLoading] = useState(false);
-//   const [brands, setBrands] = useState([]);
+const TrendingProduct = () => {
+  const [products, setProducts] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [newLoading, setNewLoading] = useState(false);
+  const [brands, setBrands] = useState([]);
 
-//   const [rows, setRows] = useState(6);
-//   const [page, setPage] = useState(1);
-//   const [total, setTotal] = useState(1);
-//   const [search, setSearch] = useState(null);
-//   const [brand, setBrand] = useState(null);
-//   const [category, setCategory] = useState(null);
-//   const [storages, setStorages] = useState([]);
-//   const [processors, setProcessors] = useState([]);
-//   const [rams, setRams] = useState([]);
-//   const [sort, setSorting] = useState(null);
-//   const [price, setPrice] = useState([4000, 1000000]);
+  const [rows, setRows] = useState(6);
+  const [page, setPage] = useState(1);
+  const [total, setTotal] = useState(1);
+  const [search, setSearch] = useState(null);
+  const [brand, setBrand] = useState(null);
+  const [category, setCategory] = useState(null);
+  const [storages, setStorages] = useState([]);
+  const [processors, setProcessors] = useState([]);
+  const [rams, setRams] = useState([]);
+  const [sort, setSorting] = useState(null);
+  const [price, setPrice] = useState([4000, 1000000]);
 
-//   useEffect(() => {
-//     if (search) {
-//       fetchData();
-//     } else {
-//       products.length > 0 ? fetchMoreData() : fetchData();
-//     }
-//   }, [rows, page, search]);
+  useEffect(() => {
+    if (search) {
+      fetchData();
+    } else {
+      products.length > 0 ? fetchMoreData() : fetchData();
+    }
+  }, [rows, page, search]);
 
-//   const header = () => {
-//     return {
-//       "Content-Type": "application/json",
-//       Accept: "application/json",
-//     };
-//   };
+  const header = () => {
+    return {
+      "Content-Type": "application/json",
+      Accept: "application/json",
+    };
+  };
 
-//   const handleLoadMore = () => {
-//     setPage(page + 1); // Increment the page value to load the next page of products
-//   };
+  const handleLoadMore = () => {
+    setPage(page + 1); // Increment the page value to load the next page of products
+  };
 
-//   const handleResponse = (response) => {
-//     return response.text().then((text) => {
-//       const data = text && JSON.parse(text);
-//       if (!response.ok) {
-//         if (response.status === 403) {
-//           window.location.href = "/";
-//         }
+  const handleResponse = (response) => {
+    return response.text().then((text) => {
+      const data = text && JSON.parse(text);
+      if (!response.ok) {
+        if (response.status === 403) {
+          window.location.href = "/";
+        }
 
-//         const error = data || response.statusText;
-//         return Promise.reject(error);
-//       }
+        const error = data || response.statusText;
+        return Promise.reject(error);
+      }
 
-//       return data;
-//     });
-//   };
+      return data;
+    });
+  };
 
-//   const debounce = (callback, delay) => {
-//     let timer;
-//     return function (...args) {
-//       clearTimeout(timer);
-//       timer = setTimeout(() => {
-//         callback(...args);
-//       }, delay);
-//     };
-//   };
+  const debounce = (callback, delay) => {
+    let timer;
+    return function (...args) {
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        callback(...args);
+      }, delay);
+    };
+  };
 
-//   const delayedHandleSearch = debounce((value) => {
-//     setSearch(value);
-//   }, 100);
+  const delayedHandleSearch = debounce((value) => {
+    setSearch(value);
+  }, 100);
 
-//   const handleSearch = (event) => {
-//     const value = event.target.value;
-//     delayedHandleSearch(value);
-//   };
+  const handleSearch = (event) => {
+    const value = event.target.value;
+    delayedHandleSearch(value);
+  };
 
-//   const searchSelect = () => {
-//     return (
-//       <input
-//         placeholder=" Search products by name, model storage, processor.."
-//         id="show"
-//         value={search}
-//         style={{
-//           color: "black",
-//           marginBottom: 10,
-//           fontWeight: "bold",
-//           height: 34, // Set the height to reduce the input height
-//           borderRadius: 5,
-//           border: "1px solid #0E1B4D",
-//           width: "50%",
-//         }}
-//         onChange={handleSearch}
-//       />
-//     );
-//   };
+  const searchSelect = () => {
+    return (
+      <input
+        placeholder=" Search products by name, model storage, processor.."
+        id="show"
+        value={search}
+        style={{
+          color: "black",
+          marginBottom: 10,
+          fontWeight: "bold",
+          height: 34, // Set the height to reduce the input height
+          borderRadius: 5,
+          border: "1px solid #0E1B4D",
+          width: "50%",
+        }}
+        onChange={handleSearch}
+      />
+    );
+  };
 
-//   const getProducts = (data) => {
-//     const requestOptions = {
-//       method: "POST",
-//       headers: header(),
-//       body: JSON.stringify(data),
-//     };
-//     return fetch(
-//       `https://www.hayzeeonlineapi.hayzeeonline.com/api/user/products`,
-//       requestOptions
-//     ).then(handleResponse);
-//   };
+  const getProducts = (data) => {
+    const requestOptions = {
+      method: "POST",
+      headers: header(),
+      body: JSON.stringify(data),
+    };
+    return fetch(
+      `https://www.hayzeeonlineapi.hayzeeonline.com/api/user/products`,
+      requestOptions
+    ).then(handleResponse);
+  };
 
-//   const fetchData = async () => {
-//     setLoading(true);
-//     getProducts({
-//       page,
-//       rows,
-//       price,
-//       brand,
-//       rams,
-//       sort,
-//       storages,
-//       processors,
-//       search,
-//       category,
-//     }).then(
-//       (res) => {
-//         setProducts(res.products.data);
-//         setTotal(res.products.total);
-//         setLoading(false);
-//       },
-//       (error) => {
-//         setLoading(false);
-//       }
-//     );
-//   };
+  const fetchData = async () => {
+    setLoading(true);
+    getProducts({
+      page,
+      rows,
+      price,
+      brand,
+      rams,
+      sort,
+      storages,
+      processors,
+      search,
+      category,
+    }).then(
+      (res) => {
+        setProducts(res.products.data);
+        setTotal(res.products.total);
+        setLoading(false);
+      },
+      (error) => {
+        setLoading(false);
+      }
+    );
+  };
 
-//   const fetchMoreData = async () => {
-//     setNewLoading(true);
-//     getProducts({
-//       page,
-//       rows,
-//       price,
-//       brand,
-//       rams,
-//       sort,
-//       storages,
-//       processors,
-//       search,
-//       category,
-//     }).then(
-//       (res) => {
-//         setProducts((prevProducts) => [...prevProducts, ...res.products.data]);
-//         setTotal(res.products.total);
-//         setNewLoading(false);
-//       },
-//       (error) => {
-//         setNewLoading(false);
-//       }
-//     );
-//   };
+  const fetchMoreData = async () => {
+    setNewLoading(true);
+    getProducts({
+      page,
+      rows,
+      price,
+      brand,
+      rams,
+      sort,
+      storages,
+      processors,
+      search,
+      category,
+    }).then(
+      (res) => {
+        setProducts((prevProducts) => [...prevProducts, ...res.products.data]);
+        setTotal(res.products.total);
+        setNewLoading(false);
+      },
+      (error) => {
+        setNewLoading(false);
+      }
+    );
+  };
 
-//   return (
-//     <div className="row">
+  return (
+    <div className="row">
      
-//       {loading ? (
-//         <div style={{ textAlign: "center", marginTop: "20px" }}>
-//           <div className="spinner-border text-primary" role="status">
-//             <span className="visually-hidden">Load more</span>
-//           </div>
-//         </div>
-//       ) : (
-//         products.map((product, key) => (
-//           <div className="col-lg-4 col-md-4" key={key}>
-//             <ProductCard
-//               imageSrc={product.image}
-//               name={product.name}
-//               price={product.price}
-//               altImage={product.image_hover}
-//               slug={product.slug}
-//             />
-//           </div>
-//         ))
-//       )}
-//       <div className="col-md-12">
-//         {newLoading && (
-//           <div style={{ textAlign: "center", marginTop: "20px" }}>
-//             <div className="spinner-border text-primary" role="status">
-//               <span className="visually-hidden">Load more</span>
-//             </div>
-//           </div>
-//         )}
-//         {!loading && products.length < total && (
-//           <div
-//             style={{
-//               textAlign: "center",
-//               marginTop: "20px",
-//               alignItems: "center",
-//             }}
-//           >
-//             <button className="load-more-button">
+      {loading ? (
+        <div style={{ textAlign: "center", marginTop: "20px" }}>
+          <div className="spinner-border text-primary" role="status">
+            <span className="visually-hidden">Load more</span>
+          </div>
+        </div>
+      ) : (
+        products.map((product, key) => (
+          <div className="col-lg-4 col-md-4" key={key}>
+            <ProductCard
+              imageSrc={product.image}
+              name={product.name}
+              price={product.price}
+              altImage={product.image_hover}
+              slug={product.slug}
+            />
+          </div>
+        ))
+      )}
+      <div className="col-md-12">
+        {newLoading && (
+          <div style={{ textAlign: "center", marginTop: "20px" }}>
+            <div className="spinner-border text-primary" role="status">
+              <span className="visually-hidden">Load more</span>
+            </div>
+          </div>
+        )}
+        {!loading && products.length < total && (
+          <div
+            style={{
+              textAlign: "center",
+              marginTop: "20px",
+              alignItems: "center",
+            }}
+          >
+            <button className="load-more-button">
             
-//               <a style={{textDecoration:'none'}}href={`./uk-used-laptops-ibadan`}>Load More</a>
-//             </button>
-//           </div>
-//         )}
-//       </div>
-//     </div>
-//   );
-// };
-// ReactDOM.render(<TrendingProduct />, document.getElementById("trending"));
+              <a style={{textDecoration:'none'}}href={`./uk-used-laptops-ibadan`}>Load More</a>
+            </button>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+};
+ReactDOM.render(<TrendingProduct />, document.getElementById("trending"));
 
     </script>
 </body>
