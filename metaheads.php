@@ -97,7 +97,7 @@
     })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
     </script>
     <!-- End Google Tag Manager -->
-    <!-- <script src="./assets/js/react-dev.js" crossorigin></script>
+    <script src="./assets/js/react-dev.js" crossorigin></script>
     <script src="./assets/js/react-dom.js" crossorigin></script>
-    <script src="./assets/js/babel.js"></script> -->
+    <script src="./assets/js/babel.js"></script>
 </head>
