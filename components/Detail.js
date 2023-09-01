@@ -303,7 +303,7 @@ const Detail = () => {
           <div className="col-md-6">
             {product !== null && <ProductImages product={product} />}
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6" style={{ marginTop: 10 }}>
             {!loading && product !== null && (
               <div
                 className="product-details-content"
