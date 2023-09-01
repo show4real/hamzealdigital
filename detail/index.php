@@ -43,16 +43,14 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="#1 UK Used Laptops / Brand New Laptops / Mobile Phones store in Ibadan" />
-    <meta property="og:description"
-        content="Hamzeal Digital offers top quality laptops, Mobile phones and accessories at affordable prices, delivering quality since 2004 in Ibadan." />
+    <meta property="og:description" content="Hamzeal Digital offers top quality laptops, Mobile phones and accessories at affordable prices, delivering quality since 2004 in Ibadan." />
     <meta property="og:url" content="https://hamzealdigital.com/" />
     <meta property="og:site_name" content="Hamzeal Digital" />
     <meta property="article:publisher" content="https://www.facebook.com/hamzealmart/" />
     <meta property="article:modified_time" content="2023-07-09T11:10:28+00:00" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Check Out These Fairly Used Laptops in Ibadan with Their Prices" />
-    <meta property="og:description"
-        content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
+    <meta property="og:description" content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
     <meta property="og:url" content="https://hamzealdigital.com/uk-used-laptops-ibadan" />
     <meta property="og:image" content="https://hamzealdigital.com/log.png" />
     <meta property="og:image:width" content="750" />
@@ -65,8 +63,7 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
     <meta name="twitter:site" content="@Selloff.ng" />
     <meta name="twitter:creator" content="@" />
     <meta name="twitter:title" content="Check Out These Fairly Used Laptops in Ibadan with Their Prices" />
-    <meta name="twitter:description"
-        content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
+    <meta name="twitter:description" content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
     <meta name="twitter:image" content="https://hamzealdigital.com/logo.png" />
 
     <!-- Favicons -->
@@ -74,9 +71,7 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
     <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 
@@ -93,270 +88,270 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
 
     <!-- Google Tag Manager -->
     <script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
     </script>
     <!-- End Google Tag Manager -->
     <style>
-    .float-whatsapp {
-        position: fixed;
-        width: 60px;
-        height: 60px;
-        bottom: 40px;
-        right: 40px;
-        background-color: #25d366;
-        color: #FFF;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 30px;
-        box-shadow: 2px 2px 3px #999;
-        z-index: 100;
-    }
+        .float-whatsapp {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            background-color: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 100;
+        }
 
-    .my-whatsapp-float {
-        margin-top: 16px;
-    }
+        .my-whatsapp-float {
+            margin-top: 16px;
+        }
 
-    .product-container {
-        display: flex;
-        flex-direction: column;
-
-    }
-
-    .product-slider {
-        position: relative;
-        max-width: 100%;
-        margin-bottom: 20px;
-    }
-
-    .product-slider img {
-        max-width: 100%;
-        height: auto;
-    }
-
-    .arrow-left,
-    .arrow-right {
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 30px;
-        height: 30px;
-        background-color: rgba(0, 0, 0, 0.5);
-        color: white;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        cursor: pointer;
-    }
-
-    .arrow-left {
-        left: 10px;
-    }
-
-    .arrow-right {
-        right: 10px;
-    }
-
-    .product-thumbnails {
-        display: flex;
-        gap: 10px;
-    }
-
-    .thumbnail {
-        width: 40px;
-        height: 40px;
-        cursor: pointer;
-        border: 2px solid transparent;
-        transition: border-color 0.3s;
-    }
-
-    .thumbnail img {
-        width: 100%;
-        height: 100%;
-    }
-
-    .thumbnail.selected {
-        border-color: #007bff;
-    }
-
-    .number-button {
-        display: flex;
-        align-items: center;
-        border: 1px solid #0E1B4D;
-        color: #0E1B4D;
-        width: 150px;
-        border-radius: 10px;
-        height: 60px;
-    }
-
-    .minus-button,
-    .plus-button {
-
-        color: #0E1B4D;
-        border-radius: 4px;
-        border: none;
-
-        cursor: pointer;
-
-    }
-
-    .styled-button {
-        border-radius: 4px;
-        border: 1px solid #0E1B4D;
-        color: white;
-        background-color: #0E1B4D;
-        margin-bottom: 1rem;
-        display: block;
-
-        border: none;
-    }
-
-    h5.device-type {
-        color: #0E1B4D;
-        font-size: 15px;
-        font-weight: 100;
-    }
-
-    .styled-button span {
-
-        font-size: 15px;
-    }
-
-    .add-to-cart-button {
-        border: 1px solid #0E1B4D;
-        background-color: transparent;
-        color: #0E1B4D;
-        transition: border-color 0.6s;
-        width: 80%;
-        height: 50px;
-        font-size: 15px;
-        font-weight: 500;
-    }
-
-    .add-to-cart-button:hover,
-    .add-to-cart-button:focus {
-        border: 2px solid#0E1B4D !important;
-        background-color: transparent;
-        color: #0E1B4D !important;
-        font-size: 20px;
-        font-weight: 500;
-    }
-
-
-
-    .share-button {
-        border: 1px solid #0E1B4D;
-        background-color: transparent;
-        color: #0E1B4D;
-        margin-top: 15px;
-        transition: border-color 0.6s;
-        width: 20%;
-        height: 40px;
-        font-size: 15px;
-        font-weight: 500;
-    }
-
-    .share-button:hover,
-    .share-button:focus {
-        border: 2px solid#0E1B4D !important;
-        background-color: transparent;
-        color: #0E1B4D !important;
-        font-size: 20px;
-        font-weight: 500;
-    }
-
-
-
-
-    .buy-now-button {
-        border: 1px solid #3498DB;
-        background-color: #3498DB;
-        color: white;
-        transition: border-color 0.6s;
-        width: 80%;
-        height: 50px;
-        font-size: 15px;
-        font-weight: 500;
-    }
-
-    .buy-now-button:hover,
-    .buy-now-button:focus {
-        border: none;
-        background-color: #3498DB;
-        color: white !important;
-        font-size: 20px;
-        font-weight: 500;
-    }
-
-    .description p {
-        color: #0E1B4D;
-        font-family: "Archivo, serif";
-        font-size: 15px;
-    }
-
-
-    .image-container {
-        position: relative;
-        overflow: hidden;
-    }
-
-    .zoomable-image {
-        width: 100%;
-        height: auto;
-        transition: transform 0.7s;
-    }
-
-    .card-with-hover .zoomable-image {
-        transform: scale(1);
-    }
-
-    .card-with-hover .image-container:hover .zoomable-image {
-        transform: scale(1.2);
-        /* Adjust the zoom level as needed */
-    }
-
-    .image-tag {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        z-index: 1;
-        font-size: 12px;
-        font-weight: bold;
-    }
-
-    @media (max-width: 768px) {
-        .product-thumbnails {
-            /* Modify the display for smaller screens */
+        .product-container {
+            display: flex;
             flex-direction: column;
-            /* Stack thumbnails vertically */
-            gap: 5px;
-            /* Reduce the gap between thumbnails */
+
+        }
+
+        .product-slider {
+            position: relative;
+            max-width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .product-slider img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .arrow-left,
+        .arrow-right {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 30px;
+            height: 30px;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+
+        .arrow-left {
+            left: 10px;
+        }
+
+        .arrow-right {
+            right: 10px;
+        }
+
+        .product-thumbnails {
+            display: flex;
+            gap: 10px;
         }
 
         .thumbnail {
-            width: 30px;
-            /* Reduce thumbnail size */
-            height: 30px;
-            /* Add additional mobile-specific styling if needed */
+            width: 40px;
+            height: 40px;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: border-color 0.3s;
         }
-    }
+
+        .thumbnail img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .thumbnail.selected {
+            border-color: #007bff;
+        }
+
+        .number-button {
+            display: flex;
+            align-items: center;
+            border: 1px solid #0E1B4D;
+            color: #0E1B4D;
+            width: 150px;
+            border-radius: 10px;
+            height: 60px;
+        }
+
+        .minus-button,
+        .plus-button {
+
+            color: #0E1B4D;
+            border-radius: 4px;
+            border: none;
+
+            cursor: pointer;
+
+        }
+
+        .styled-button {
+            border-radius: 4px;
+            border: 1px solid #0E1B4D;
+            color: white;
+            background-color: #0E1B4D;
+            margin-bottom: 1rem;
+            display: block;
+
+            border: none;
+        }
+
+        h5.device-type {
+            color: #0E1B4D;
+            font-size: 15px;
+            font-weight: 100;
+        }
+
+        .styled-button span {
+
+            font-size: 15px;
+        }
+
+        .add-to-cart-button {
+            border: 1px solid #0E1B4D;
+            background-color: transparent;
+            color: #0E1B4D;
+            transition: border-color 0.6s;
+            width: 80%;
+            height: 50px;
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .add-to-cart-button:hover,
+        .add-to-cart-button:focus {
+            border: 2px solid#0E1B4D !important;
+            background-color: transparent;
+            color: #0E1B4D !important;
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+
+
+        .share-button {
+            border: 1px solid #0E1B4D;
+            background-color: transparent;
+            color: #0E1B4D;
+            margin-top: 15px;
+            transition: border-color 0.6s;
+            width: 20%;
+            height: 40px;
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .share-button:hover,
+        .share-button:focus {
+            border: 2px solid#0E1B4D !important;
+            background-color: transparent;
+            color: #0E1B4D !important;
+            font-size: 20px;
+            font-weight: 500;
+        }
 
 
 
 
-    /* FF1493 */
+        .buy-now-button {
+            border: 1px solid #3498DB;
+            background-color: #3498DB;
+            color: white;
+            transition: border-color 0.6s;
+            width: 80%;
+            height: 50px;
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .buy-now-button:hover,
+        .buy-now-button:focus {
+            border: none;
+            background-color: #3498DB;
+            color: white !important;
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+        .description p {
+            color: #0E1B4D;
+            font-family: "Archivo, serif";
+            font-size: 15px;
+        }
+
+
+        .image-container {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .zoomable-image {
+            width: 100%;
+            height: auto;
+            transition: transform 0.7s;
+        }
+
+        .card-with-hover .zoomable-image {
+            transform: scale(1);
+        }
+
+        .card-with-hover .image-container:hover .zoomable-image {
+            transform: scale(1.2);
+            /* Adjust the zoom level as needed */
+        }
+
+        .image-tag {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        @media (max-width: 768px) {
+            .product-thumbnails {
+                /* Modify the display for smaller screens */
+                flex-direction: row;
+                /* Stack thumbnails vertically */
+                gap: 5px;
+                /* Reduce the gap between thumbnails */
+            }
+
+            .thumbnail {
+                width: 30px;
+                /* Reduce thumbnail size */
+                height: 30px;
+                /* Add additional mobile-specific styling if needed */
+            }
+        }
+
+
+
+
+        /* FF1493 */
     </style>
 
 
@@ -375,32 +370,31 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
     </div>
 
     <script>
-    var chatbox = document.getElementById('fb-customer-chat');
-    chatbox.setAttribute("page_id", "302249947165451");
-    chatbox.setAttribute("attribution", "biz_inbox");
+        var chatbox = document.getElementById('fb-customer-chat');
+        chatbox.setAttribute("page_id", "302249947165451");
+        chatbox.setAttribute("attribution", "biz_inbox");
     </script>
 
     <!-- Your SDK code -->
     <script>
-    window.fbAsyncInit = function() {
-        FB.init({
-            xfbml: true,
-            version: 'v17.0'
-        });
-    };
+        window.fbAsyncInit = function() {
+            FB.init({
+                xfbml: true,
+                version: 'v17.0'
+            });
+        };
 
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
     </script>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-557JZVST" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- ======= Header ======= -->
     <?php include "../header.php" ?>
@@ -545,8 +539,7 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
                                     <a href="#">Privacy policy</a>
                                 </li>
                             </ul>
-                            <a href="https://api.whatsapp.com/send?phone=7032618748&text=hello, welcome to Hamzeal Digital."
-                                class="float-whatsapp" target="_blank">
+                            <a href="https://api.whatsapp.com/send?phone=7032618748&text=hello, welcome to Hamzeal Digital." class="float-whatsapp" target="_blank">
                                 <i class="fa fa-whatsapp my-whatsapp-float"></i>
                             </a>
                         </div>
@@ -589,8 +582,7 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
         </footer>
         <!-- End Footer -->
 
-        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-                class="bi bi-arrow-up-short"></i></a>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
         <!-- Vendor JS Files -->
         <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
