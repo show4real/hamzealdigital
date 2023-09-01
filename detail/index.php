@@ -175,8 +175,8 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
     }
 
     .thumbnail {
-        width: 100px;
-        height: 100px;
+        width: 40px;
+        height: 40px;
         cursor: pointer;
         border: 2px solid transparent;
         transition: border-color 0.3s;
@@ -334,6 +334,23 @@ $newtitle = preg_replace('/\W\w+\s*(\W*)$/', '$1', $title);
         z-index: 1;
         font-size: 12px;
         font-weight: bold;
+    }
+
+    @media (max-width: 768px) {
+        .product-thumbnails {
+            /* Modify the display for smaller screens */
+            flex-direction: column;
+            /* Stack thumbnails vertically */
+            gap: 5px;
+            /* Reduce the gap between thumbnails */
+        }
+
+        .thumbnail {
+            width: 30px;
+            /* Reduce thumbnail size */
+            height: 30px;
+            /* Add additional mobile-specific styling if needed */
+        }
     }
 
 
