@@ -245,8 +245,9 @@ const Detail = () => {
           style={{ color: "#0E1B4D", marginRight: "8px" }}
         ></i>
         <span style={{ color: "#0E1B4D", fontWeight: "700" }}>
-          Pickup available at Sango, Poly RD, Ibadan, Oyo State Nigeria.
-          <b style={{ display: "block" }}>contact: 08037586863</b>
+          Pickup available at Abeokuta RD, NNPC Junction, Nikem Plaza, Ibadan
+          Oyo State Nigeria.
+          <b style={{ display: "block" }}>contact: 07032618748 08174320240</b>
         </span>
       </div>
     );
@@ -285,8 +286,10 @@ const Detail = () => {
   return (
     <div className="row">
       {loading ? (
-        <div className="col-md-12" style={{ textAlign: "center" }}>
-          Loading...
+        <div style={{ textAlign: "center", marginTop: "20px" }}>
+          <div className="spinner-border text-primary" role="status">
+            <span className="visually-hidden">Load more</span>
+          </div>
         </div>
       ) : (
         <>
