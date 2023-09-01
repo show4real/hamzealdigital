@@ -51,7 +51,7 @@ const ProductCard = ({ imageSrc, name, price, altImage, slug }) => {
       />
       <h3 style={{ margin: "10px", fontSize: "15px" }}>
         <a
-          href={`/detail/?page=${slug}`}
+          href={`../detail/${slug}`}
           style={{ textDecoration: "none", color: "#0E1B4D" }}
         >
           {name}
