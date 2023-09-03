@@ -8,15 +8,15 @@
         <nav id="navbar" class="navbar">
             <ul>
                 <li><a class="nav-link scrollto active" href="/">Home</a></li>
-                <li><a class="nav-link scrollto" href="#about">About</a></li>
+                <li><a class="nav-link scrollto" href="/about.php">About</a></li>
                 <li><a class="nav-link scrollto" href="/our-services.php">Services</a></li>
                 <li><a class="nav-link scrollto" href="/uk-used-laptops.php">Digital Gadgets</a></li>
 
-                <li><a class="nav-link scrollto" href="./blogs/">Blog</a></li>
+                <li><a class="nav-link scrollto" href="/blog.php">Blog</a></li>
 
                 <li><a class="nav-link scrollto" href="/contact-us.php">Contact</a></li>
                 <li>
-                    <a class="getstarted scrollto" href="#about">Get Started</a>
+                    <a class="getstarted scrollto" href="/about.php">Get Started</a>
                 </li>
 
             </ul>
