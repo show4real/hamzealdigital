@@ -233,8 +233,9 @@ const Detail = () => {
     );
   };
 
-  const formatNumber = (number) => {
-    return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  const formatNumber = (price) => {
+    let newprice = Number(price) + 10000;
+    return newprice.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
   };
 
   const PickupLocation = () => {

@@ -10,20 +10,20 @@
     <meta name="description" content="Top quality UK used laptops Ibadan. easily make your choice" />
 
     <meta name="keywords" content="UK used laptops in Ibadan" />
-    <link rel="canonical" href="https://hamzealdigital.com/uk-used-quality-laptops-ibadan" />
+    <link rel="canonical" href="/uk-used-quality-laptops-ibadan" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="#1 UK Used Laptops / Brand New Laptops / Mobile Phones store in Ibadan" />
     <meta property="og:description" content="Hamzeal Digital offers top quality laptops, Mobile phones and accessories at affordable prices, delivering quality since 2004 in Ibadan." />
-    <meta property="og:url" content="https://hamzealdigital.com/" />
+    <meta property="og:url" content="/" />
     <meta property="og:site_name" content="Hamzeal Digital" />
     <meta property="article:publisher" content="https://www.facebook.com/hamzealmart/" />
     <meta property="article:modified_time" content="2023-07-09T11:10:28+00:00" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Check Out These Fairly Used Laptops in Ibadan with Their Prices" />
     <meta property="og:description" content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
-    <meta property="og:url" content="https://hamzealdigital.com/uk-used-laptops-ibadan" />
-    <meta property="og:image" content="https://hamzealdigital.com/log.png" />
+    <meta property="og:url" content="/uk-used-laptops-ibadan" />
+    <meta property="og:image" content="/log.png" />
     <meta property="og:image:width" content="750" />
     <meta property="og:image:height" content="500" />
     <meta property="article:author" content="" />
@@ -31,11 +31,11 @@
     <meta property="article:published_time" content="2023-04-30 23:52:08" />
     <meta property="article:modified_time" content="2023-04-30 23:52:08" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@Selloff.ng" />
+    <meta name="twitter:site" content="@hamzealdigital.ng" />
     <meta name="twitter:creator" content="@" />
     <meta name="twitter:title" content="Check Out These Fairly Used Laptops in Ibadan with Their Prices" />
     <meta name="twitter:description" content="We have compiled a list of fairly used laptops in Ibadan with their prices, so you can easily make the right choice" />
-    <meta name="twitter:image" content="https://hamzealdigital.com/logo.png" />
+    <meta name="twitter:image" content="/logo.png" />
 
     <!-- Favicons -->
     <link href="../assets/img/favicon.png" rel="icon" />

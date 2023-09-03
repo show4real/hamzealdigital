@@ -21,7 +21,13 @@
       .content {
         background-color: aliceblue;
         display: flex;
+        gap: 100px;
         width: 100%;
+      }
+      @media (max-width: 768px) {
+        .content {
+          flex-direction: column;
+        }
       }
     </style>
   </head>
@@ -49,7 +55,7 @@
         <img
           src="https://www.opayweb.com/static/fd7391794edda8d89f9aea35f44ff859/31987/group-header.png"
           alt="opay"
-          style="height: 800px; width: 800px"
+          style="height: 700px; width: 700px"
         />
       </div>
     </div>

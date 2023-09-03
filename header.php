@@ -7,22 +7,14 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="./index.php">Home</a></li>
+                <li><a class="nav-link scrollto active" href="/">Home</a></li>
                 <li><a class="nav-link scrollto" href="#about">About</a></li>
-                <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                <li><a class="nav-link scrollto" href="./uk-used-laptops-ibadan/">DigitalGadgets</a></li>
+                <li><a class="nav-link scrollto" href="/our-services.php">Services</a></li>
+                <li><a class="nav-link scrollto" href="/uk-used-laptops.php">Digital Gadgets</a></li>
 
-                <li>
-                    <a class="nav-link scrollto" href="#portfolio">Portfolio</a>
-                </li>
                 <li><a class="nav-link scrollto" href="./blogs/">Blog</a></li>
 
-                <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                <!-- <li>
-                    <a aria-label="Chat on WhatsApp" href="https://wa.me/7032618748">
-                        <img alt="Chat on WhatsApp" src="whatsapp.png" width="150" />
-                    </a>
-                </li> -->
+                <li><a class="nav-link scrollto" href="/contact-us.php">Contact</a></li>
                 <li>
                     <a class="getstarted scrollto" href="#about">Get Started</a>
                 </li>
