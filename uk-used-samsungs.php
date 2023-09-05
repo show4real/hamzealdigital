@@ -6,7 +6,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-    <title>#1 uk used mobile phones / Iphones / samsung / Huawei / Google Pixel | Hamzeal digital</title>
+    <title>#1 uk used mobile phones / Iphones / samsung / Huawei / Google Pixel / Hamzeal digital</title>
     <meta content="#1 UK used gadgets at affordable prices | Quality Uk used Gadgets, Mobile Phones and Laptops" name="description" />
     <meta content="Iphone | Samsung | UK used Laptops| Affordable Gadgets | Brand New | Apple Laptops | DELL | HP | Lenovo | Laptop Sales" name="keywords" />
     <link rel="canonical" href="https://hamzealdigital.com/" />

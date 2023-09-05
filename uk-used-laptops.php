@@ -6,7 +6,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-    <title>#1 uk used laptops at affordable price | Hamzeal digital</title>
+    <title>#1 uk used laptops at affordable price</title>
     <meta content="#1 UK used gadgets at affordable prices | Quality Uk used Gadgets, Mobile Phones and Laptops"
         name="description" />
     <meta
@@ -377,7 +377,8 @@ const ProductCard = ({ imageSrc, name, price, altImage, slug }) => {
       />
       <h3 style={{ margin: "10px", fontSize: "15px" }}>
         <a
-          href={`../detail/${slug}`}
+       
+           href={`../detail/?page=${slug}`}
           style={{ textDecoration: "none", color: "#0E1B4D" }}
         >
           {name}
