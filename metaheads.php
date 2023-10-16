@@ -92,6 +92,17 @@
         })(window, document, 'script', 'dataLayer', 'GTM-557JZVST');
     </script>
     <!-- End Google Tag Manager -->
+
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZD08S0TK9Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZD08S0TK9Y');
+</script>
     <script src="./assets/js/react-dev.js" crossorigin></script>
     <script src="./assets/js/react-dom.js" crossorigin></script>
     <script src="./assets/js/babel.js"></script>

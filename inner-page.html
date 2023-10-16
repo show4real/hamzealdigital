@@ -1,63 +1,202 @@
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pay we are beyond banking</title>
-    <link
-      rel="shortcut icon"
-      href="../images/android-chrome-192x192.png"
-      type="image/x-icon"
-    />
+    <title>Responsive Website</title>
     <style>
-      body {
+      /* Reset some default browser styles */
+      body,
+      h1,
+      p,
+      ul,
+      li {
         margin: 0;
+        padding: 0;
       }
-      .heading a {
-        float: right;
+
+      /* Apply a background color to the body */
+      body {
+        background-color: #f0f0f0;
+        font-family: Arial, sans-serif;
+      }
+
+      /* Style the header */
+      header {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+        position: relative;
+      }
+
+      /* Style the logo */
+      .logo {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        max-width: 100px;
+        height: auto;
+      }
+
+      /* Style the navigation bar */
+      nav {
+        background-color: #444;
+        color: white;
+        text-align: right;
+        padding: 10px 0;
+        position: relative;
+      }
+
+      /* Style navigation links */
+      nav ul {
+        list-style: none;
+        padding-left: 20px;
+      }
+
+      nav li {
+        display: inline;
         margin-right: 20px;
-        text-decoration: none;
-        font-weight: bold;
       }
+
+      /* Style the image */
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      /* Center the image and add spacing */
+      .image-container {
+        text-align: center;
+        margin: 20px auto;
+      }
+
+      /* Add a border to the image */
+      .image-container img {
+        border: 5px solid #333;
+        border-radius: 10px;
+      }
+
+      /* Style the three content columns */
       .content {
-        background-color: aliceblue;
         display: flex;
-        gap: 100px;
-        width: 100%;
+        justify-content: space-between;
+        padding: 20px;
       }
+
+      .column {
+        flex-basis: calc(33.33% - 20px);
+        background-color: #f9f9f9;
+        margin: 10px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        text-align: center;
+      }
+
+      /* Style the footer */
+      footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+      }
+
+      /* Style the footer columns */
+      .footer-columns {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+      }
+
+      .footer-column {
+        flex-basis: calc(25% - 20px);
+        text-align: center;
+      }
+
+      /* Make the layout mobile-responsive */
       @media (max-width: 768px) {
+        /* Reduce header and navigation padding for smaller screens */
+        header,
+        nav {
+          padding: 10px 0;
+        }
+
+        /* Adjust margin for smaller screens */
+        .image-container {
+          margin: 10px auto;
+        }
+
+        /* Make the content columns stack for smaller screens */
         .content {
           flex-direction: column;
+        }
+
+        .column {
+          flex-basis: 100%;
+        }
+
+        /* Make the footer columns stack for smaller screens */
+        .footer-columns {
+          flex-direction: column;
+        }
+
+        .footer-column {
+          flex-basis: 100%;
         }
       }
     </style>
   </head>
   <body>
-    <div class="heading">
-      <a href="#">Home</a>
-      <a href="#">Documentation</a>
-      <a href="#">Business</a>
-      <a href="#" style="color: rgb(10, 196, 134)">Personal</a>
+    <header>
+      <img class="logo" src="https://via.placeholder.com/100x50" alt="Logo" />
+      <h1>Welcome to Our Website</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="image-container">
+      <img src="https://via.placeholder.com/400x300" alt="Sample Image" />
     </div>
-
     <div class="content">
-      <div style="padding-top: 150px">
-        <h1 style="padding-left: 20px">
-          We are Beyond Banking OPay gives you the freedom to get more
-        </h1>
-        <p style="padding-left: 20px">
-          Our solutions make payments easier, transfers free, savings more
-          rewarding and gives you cashback on airtime and data top-ups. With
-          100% network uptime, you can make payments in seconds without
-          transaction failure. Enjoy a better life with OPay.
-        </p>
+      <div class="column">
+        <p>Column 1 Text Line 1</p>
+        <p>Column 1 Text Line 2</p>
+        <p>Column 1 Text Line 3</p>
+        <p>Column 1 Text Line 4</p>
       </div>
-      <div>
-        <img
-          src="https://www.opayweb.com/static/fd7391794edda8d89f9aea35f44ff859/31987/group-header.png"
-          alt="opay"
-          style="height: 700px; width: 700px"
-        />
+      <div class="column">
+        <p>Column 2 Text Line 1</p>
+        <p>Column 2 Text Line 2</p>
+        <p>Column 2 Text Line 3</p>
+        <p>Column 2 Text Line 4</p>
+      </div>
+      <div class="column">
+        <p>Column 3 Text Line 1</p>
+        <p>Column 3 Text Line 2</p>
+        <p>Column 3 Text Line 3</p>
+        <p>Column 3 Text Line 4</p>
       </div>
     </div>
+    <footer>
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="#">Link 1</a>
+        </div>
+        <div class="footer-column">
+          <a href="#">Link 2</a>
+        </div>
+        <div class="footer-column">
+          <a href="#">Link 3</a>
+        </div>
+        <div class="footer-column">
+          <a href="#">Link 4</a>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>

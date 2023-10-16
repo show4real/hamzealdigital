@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flexbox Example</title>
+    <style>
+      .flex-container {
+        display: flex;
+        justify-content: space-between; /* Evenly distribute space between items */
+      }
+
+      .flex-item {
+        flex: 0 1 calc(50% - 10px); /* 33.33% width with spacing */
+        margin-right: 10px; /* Spacing between items */
+      }
+
+      .flex-item:last-child {
+        margin-right: 0; /* Remove spacing from the last item */
+      }
+
+      .flex-item img {
+        max-width: 100%;
+        height: auto;
+      }
+      .welcome-title {
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100%; /* Occupy full height of the container */
+        padding-top: 150px; /* Add padding to the top */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flex-container">
+      <div class="flex-item welcome-title">
+        <h3>We are Beyond Banking OPay gives you the freedom to get more.</h3>
+        <p>
+          Our solutions make payments easier, transfers free, savings more
+          rewarding and gives you cashback on airtime and data top-ups. With
+          100% network uptime, you can make payments in seconds without
+          transaction failure. Enjoy a better life with OPay.
+        </p>
+      </div>
+      <div class="flex-item">
+        <img src="opay.png" alt="Image 2" />
+      </div>
+    </div>
+  </body>
+</html>
