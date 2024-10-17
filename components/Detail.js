@@ -41,7 +41,7 @@ const Detail = () => {
       headers: header(),
     };
     return fetch(
-      `https://www.hayzeeonlineapi.hayzeeonline.com/api/singleproduct/${id}`,
+      `https://apiv2.hayzeeonline.com/api/singleproduct/${id}`,
       requestOptions
     ).then(handleResponse);
   };
@@ -89,7 +89,7 @@ const Detail = () => {
         headers: header(),
       };
       return fetch(
-        `https://www.hayzeeonlineapi.hayzeeonline.com/api/user/product/images/${id}`,
+        `https://apiv2.hayzeeonline.com/api/user/product/images/${id}`,
         requestOptions
       ).then(handleResponse);
     };

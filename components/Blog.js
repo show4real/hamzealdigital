@@ -38,7 +38,7 @@ const Blog = () => {
       body: JSON.stringify(data),
     };
     return fetch(
-      `https://www.hayzeeonlineapi.hayzeeonline.com/api/user/allblogs`,
+      `https://apiv2.hayzeeonline.com/api/user/allblogs`,
       requestOptions
     ).then(handleResponse);
   };
